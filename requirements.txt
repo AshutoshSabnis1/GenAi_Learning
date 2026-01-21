@@ -1,0 +1,6 @@
+langchain
+langchain-ollama
+langchain-huggingface
+langchain-google-genai
+dotenv
+Streamlit
