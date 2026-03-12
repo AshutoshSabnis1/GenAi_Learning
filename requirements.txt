@@ -5,3 +5,11 @@ langchain-google-genai
 dotenv
 Streamlit
 langchain-groq
+langchain-community
+langgraph 
+langchain.community
+pypdf
+beautifulsoup4
+wikipedia
+langchain-text-splitters
+langchain-chroma
